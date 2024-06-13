@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/amanportfolio/static/css/main.bf538fe7.css",
+    "main.js": "/amanportfolio/static/js/main.1d5870be.js",
+    "static/media/HeroImage.png": "/amanportfolio/static/media/HeroImage.efab3322b355862f4c9a.png",
+    "static/media/portfolio.png": "/amanportfolio/static/media/portfolio.c04833e788ea88a7454b.png",
+    "static/media/ecommerce.jpg": "/amanportfolio/static/media/ecommerce.21f51549c0fdf24f8cee.jpg",
+    "static/media/testimonial.jpg": "/amanportfolio/static/media/testimonial.7e1ad49ced8cf91d8fd2.jpg",
+    "static/media/wheather.jpg": "/amanportfolio/static/media/wheather.f93e37fe2788c36225aa.jpg",
+    "static/media/Xschool.jpg": "/amanportfolio/static/media/Xschool.78582b32bfbc459742c8.jpg",
+    "static/media/XIIschool.jpg": "/amanportfolio/static/media/XIIschool.2c257af12c843ac16120.jpg",
+    "static/media/iiitbh_logo.png": "/amanportfolio/static/media/iiitbh_logo.f0a441f9e83a087448f4.png",
+    "index.html": "/amanportfolio/index.html",
+    "main.bf538fe7.css.map": "/amanportfolio/static/css/main.bf538fe7.css.map",
+    "main.1d5870be.js.map": "/amanportfolio/static/js/main.1d5870be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1d5870be.js"
+  ]
+}
