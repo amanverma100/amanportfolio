@@ -4,19 +4,20 @@ import X_logo from '../assets/Xschool.jpg';
 import XII_logo from '../assets/XIIschool.jpg';
 import testimonial from '../assets/testimonial.jpg'
 import ecommerce from '../assets/ecommerce.jpg'
+import wheather from '../assets/wheather.jpg'
 export const Bio = {
   name: "Aman Verma",
   roles: [
     " Full-stack web Developer","Coder"
   ],
   description:
-    "With unwavering faith in my abilities and a steadfast dedication to continuous growth and learning, I embark on every challenge with confidence and enthusiasm., I aim to elevate the web landscape with innovation and integrity.",
+    "I approach every challenge with confidence and enthusiasm, aiming to improve the web landscape through innovation and integrity.",
   github: "https://github.com/amanverma100",
   resume:
   "https://1drv.ms/b/c/44120d2a81c00002/Eeea6CaSss5NnY_Tzqr_GSYBEgUpFf2KONQT2EzsyNbEkg?e=C5Pk6M",
   linkedin: "https://www.linkedin.com/in/aman-verma-300948258/",
   twitter: "https://twitter.com/",
-  insta: "https://www.instagram.com/",
+  insta: "https://www.instagram.com/aman6864verma/",
   facebook: "https://www.facebook.com/amanverma002",
 };
 
@@ -115,16 +116,17 @@ export const education = [
     img: `${iiitbh_logo}`,
     school: "Indian Institute Of Information Technology Bhagalpur",
     date: "Dec 2021 - 2025",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science at Indian Institute Of Information Technology Bhagalpur.",
-    degree: "Bachelor of Technology - BTech",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science at the Indian Institute Of Information Technology Bhagalpur.",
+    degree: "Bachelor of Technology - B.tech",
+    grade:"7.71(CGPA)"
   },
   {
     id: 1,
     img: `${XII_logo}`,
     school: "Radiant Central Children Academy Jalalpur,Ambedkarnagar Uttarpradesh",
     date: "Apr 2018 - Apr 2020",
-    grade: "94%",
-    desc: "I completed my class 12th education at Radiant Central Children Academy Jalalpur where I studied maths with computer Science.",
+    grade: "93.8%",
+    desc: "I completed my 12th-grade education at Radiant Central Children Academy Jalalpur, where I acquired skills in C, C++, and communication",
     degree: "CBSE(XII), Maths with Computer science",
   },
   {
@@ -132,7 +134,7 @@ export const education = [
     img:`${X_logo}`,
     school: "St. Xaviers's High school ",
     date: "Apr 2017 - Apr 2018",
-    grade: "86%",
+    grade: "85.6%",
     desc: "I completed my class 10 education at St Xavier's High School",
     degree: "CBSE(X)",
   },
@@ -151,6 +153,8 @@ export const projects = [
       "React Js","Tailwindcss"
     ],
     category: "Front_end",
+    url:"https://amanverma100.github.io/testimonial/",
+    githuburl:"https://github.com/amanverma100/testimonial/"
   },
   
   {
@@ -168,6 +172,8 @@ export const projects = [
        "HTML"
     ],
     category: "Front_end",
+    url:"https://amanverma100.github.io/amanportfolio/",
+    githuburl:"https://github.com/amanverma100/amanportfolio/"
   },
   {
     id: 3,
@@ -178,6 +184,21 @@ export const projects = [
     image:`${ecommerce}`,
     tags: ["React.js", "Express.js", "TailwindCss", "MongoDb", "Mongoose", "Postman"],
     category: "Full_stack",
+    url:"https://amanverma100.github.io/ecommerce/",
+    githuburl:"https://github.com/amanverma100/ecommerce"
+    
+  },
+  {
+    id: 4,
+    title: "WheatherApp",
+    date: " 12 june 2025 - 14 june 2025",
+    description:
+      "This project provide details like temperature, Humidity, Clouds, Windspeed, on particular area this project is only for understanding purpose of HTML, CSS, JavaScript and working with API ",
+    image:`${wheather}`,
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "Front_end",
+    url:"https://amanverma100.github.io/wheatherApp/",
+    githuburl:"https://github.com/amanverma100/wheatherApp/"
   },
   
 ];

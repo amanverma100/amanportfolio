@@ -9,6 +9,7 @@ justify-content: center;
 position: relative;
 z-index: 1;
 align-items: center;
+padding:2rem;
 `
 
 const Wrapper = styled.div`
@@ -75,6 +76,7 @@ const Skill = styled.div`
 
 
 `
+
 
 const SkillTitle = styled.h2`
   font-size: 28px;
