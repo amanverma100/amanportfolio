@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amanportfolio/static/css/main.bf538fe7.css",
-    "main.js": "/amanportfolio/static/js/main.69b6e055.js",
+    "main.js": "/amanportfolio/static/js/main.68dbd0f2.js",
     "static/media/HeroImage.png": "/amanportfolio/static/media/HeroImage.efab3322b355862f4c9a.png",
     "static/media/portfolio.png": "/amanportfolio/static/media/portfolio.c04833e788ea88a7454b.png",
     "static/media/ecommerce.jpg": "/amanportfolio/static/media/ecommerce.21f51549c0fdf24f8cee.jpg",
@@ -12,10 +12,10 @@
     "static/media/iiitbh_logo.png": "/amanportfolio/static/media/iiitbh_logo.f0a441f9e83a087448f4.png",
     "index.html": "/amanportfolio/index.html",
     "main.bf538fe7.css.map": "/amanportfolio/static/css/main.bf538fe7.css.map",
-    "main.69b6e055.js.map": "/amanportfolio/static/js/main.69b6e055.js.map"
+    "main.68dbd0f2.js.map": "/amanportfolio/static/js/main.68dbd0f2.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.69b6e055.js"
+    "static/js/main.68dbd0f2.js"
   ]
 }
